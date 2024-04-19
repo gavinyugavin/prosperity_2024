@@ -1,0 +1,529 @@
+Sandbox logs:
+{
+  "sandboxLog": "",
+  "lambdaLog": "traderData: \nObservations: (plainValueObservations: {}, conversionObservations: {})\n[[0,\"\",[[\"STARFRUIT\",\"STARFRUIT\",1],[\"AMETHYSTS\",\"AMETHYSTS\",1]],{\"AMETHYSTS\":[{\"9998\":9,\"9995\":23},{\"10005\":-23}],\"STARFRUIT\":[{\"5036\":23},{\"5043\":-23}]},[],[],{\"AMETHYSTS\":0,\"STARFRUIT\":0},[{},{}]],[[\"AMETHYSTS\",9998,20],[\"AMETHYSTS\",10002,-20]],1,\"5039.5\",\"\"]",
+  "timestamp": 0
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 100
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 200
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 300
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 400
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 500
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 600
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 700
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 800
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 900
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 1000
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 1100
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 1200
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 1300
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 1400
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 1500
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 1600
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 1700
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 1800
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 1900
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 2000
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 2100
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 2200
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 2300
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 2400
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 2500
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 2600
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 2700
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 2800
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 2900
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 3000
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 3100
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 3200
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 3300
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 3400
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 3500
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 3600
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 3700
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 3800
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 3900
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 4000
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 4100
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 4200
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 4300
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 4400
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 4500
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 4600
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 4700
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 4800
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 4900
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 5000
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 5100
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 5200
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 5300
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 5400
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 5500
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 5600
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 5700
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 5800
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 5900
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 6000
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 6100
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 6200
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 6300
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 6400
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 6500
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 6600
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 6700
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 6800
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 6900
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 7000
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 7100
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 7200
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 7300
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 7400
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 7500
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 7600
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 7700
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 7800
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 7900
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 8000
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 8100
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 8200
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 8300
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 8400
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 8500
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 8600
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 8700
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 8800
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 8900
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 9000
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 9100
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 9200
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 9300
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 9400
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 9500
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 9600
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 9700
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 9800
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 9900
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 10000
+}
+{
+  "sandboxLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "lambdaLog": "Field price in Order must be an integer. Current value is 5037.5",
+  "timestamp": 10100
+}
+{
+  "sandboxLog": "Lambda errors have reached maximum value for submission 147f3b19-58dc-449e-90d1-b508d1ece54a",
+  "lambdaLog": null,
+  "timestamp": 117095
+}
+
+
+
+Activities log:
+day;timestamp;product;bid_price_1;bid_volume_1;bid_price_2;bid_volume_2;bid_price_3;bid_volume_3;ask_price_1;ask_volume_1;ask_price_2;ask_volume_2;ask_price_3;ask_volume_3;mid_price;profit_and_loss
+0;0;AMETHYSTS;9998;9;9995;23;;;10005;23;;;;;10001.5;0.0
+0;0;STARFRUIT;5036;23;;;;;5043;23;;;;;5039.5;0.0
+
+
+
+
+Trade History:
+null
